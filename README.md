@@ -8,5 +8,3 @@ I build end to end: landing, app, and admin. Expo + React Native frontends, Supa
 - 📬 **Fastest reach:** christianmeude17@gmail.com
 - 🛠️ **Daily drivers:** React, React Native, Expo, TypeScript, Tailwind, Supabase
 - 🌱 **Also speak:** Flutter, Dart, Laravel, PostgreSQL
-
-*2 shipped systems, 2 WIP — every claim links to a repo.*
